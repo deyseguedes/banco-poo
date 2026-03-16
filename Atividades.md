@@ -20,26 +20,3 @@ Regra:
 
 Se o saque for maior que o saldo lançar exceção.
 ================================================
-Atividade 5
-
-Crie uma exceção personalizada chamada:
-
-SaldoInsuficienteException
-=====================================================
-Atividade 6
-
-Simule um login.
-
-Se o usuário for diferente de admin lançar exceção.
-=====================================================
-Atividade 7
-
-Crie um bloco try que execute:
-
-uma divisão
-
-um saque
-
-um login
-
-Trate os erros.
